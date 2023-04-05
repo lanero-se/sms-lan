@@ -13,4 +13,4 @@ En annan risk med SMS-lån är att de kan leda till skuldfällor för personer s
 
 I sammanfattning kan SMS-lån vara en snabb och bekväm lösning för personer som behöver pengar snabbt. Men det är viktigt att vara medveten om de högre räntorna och avgifterna, samt risken för skuldsättning. Det är också viktigt att se till att man har möjlighet att betala tillbaka lånet i tid innan man tar ett SMS-lån.
 
-Mer information kommer snart: https://xn--lnero-mra.se/
+Mer information kommer snart: https://lånero.se
