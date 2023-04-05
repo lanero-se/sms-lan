@@ -1,6 +1,8 @@
 # sms-lan
 Jämför SMS lån på ett smidigt sätt. 
 
+Vad är ett SMS lån?
+
 SMS-lån är en typ av snabblån som erbjuds av olika låneinstitut via mobiltelefonen. Konceptet introducerades på 1990-talet och har blivit alltmer populärt under de senaste åren, särskilt bland unga människor.
 
 Den främsta fördelen med SMS-lån är deras enkelhet och snabbhet. Det är möjligt att ansöka om lån direkt via mobiltelefonen genom att skicka ett SMS-meddelande till låneinstitutet. Ansökningsprocessen är oftast enkel och kräver inte mycket information. Många låneinstitut erbjuder även möjligheten att få pengarna direkt överförda till bankkontot samma dag som ansökan godkänns.
